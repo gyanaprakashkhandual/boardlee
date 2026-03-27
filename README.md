@@ -58,6 +58,4 @@ A beautifully designed, feature-rich Tic Tac Toe game built with vanilla HTML, C
 
 **Built with ❤️ using vanilla web technologies**
 
-[⭐ Star this project](/) | [🐛 Report Bug](/) | [💡 Request Feature](/)
-
 </div>
